@@ -22,8 +22,3 @@ P.S.: O prazo para entrega do desafio é até dia 14/09 as 12hrs.
 Esperamos que você seja o destaque dessa etapa!!!
 
 Boa Sorte :)
-
-//
-
-http://blog.jaykanakiya.com/angular-js-todo-list-sortable/
-http://codereview.stackexchange.com/questions/62693/developing-an-alert-notification-in-angularjs
